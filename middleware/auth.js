@@ -8,7 +8,7 @@ const auth = async (req,res,next) => {
 
     if(req.cookies.sessionToken){
         let token = req.cookies.sessionToken;
-        // verify token was made by server
+
         jwt.verify(token,process.env.JWT_SECRET,async (err, decoded) =>{
             if(err){
                 console.log(`ERROR while verifying token ${err.message}`);
