@@ -1,0 +1,117 @@
+{
+    "info": [
+      {
+        "title": "greeting_finance",
+        "requests": [
+          "Bonjour, je veux investir",
+          "Comment démarrer en bourse?",
+          "Salut, pouvez-vous m'aider avec les investissements?",
+          "Bonsoir, je suis nouveau dans les finances",
+          "Bonne journée, je recherche des conseils sur les actions"
+        ],
+        "responses": [
+          "Bonjour! Je suis ravi de vous aider à démarrer avec l'investissement.",
+          "Salut! Je peux certainement vous aider avec les bases de l'investissement en bourse.",
+          "Bonsoir! Bienvenue dans le monde passionnant de la finance."
+        ],
+        "context": []
+      },
+      {
+        "title": "farewell_finance",
+        "requests": [
+          "Merci pour l'aide, au revoir",
+          "Je dois partir maintenant, bye",
+          "C'était utile, à la prochaine"
+        ],
+        "responses": [
+          "Heureux d'avoir pu aider. N'hésitez pas à revenir pour plus de questions!",
+          "Au revoir et bonne chance avec vos investissements!"
+        ],
+        "context": []
+      },
+      {
+        "title": "thanks_finance",
+        "requests": [
+          "Merci pour les conseils",
+          "J'apprécie votre aide",
+          "C'est très utile, merci"
+        ],
+        "responses": [
+          "Vous êtes le bienvenu! Si vous avez d'autres questions, n'hésitez pas à demander.",
+          "C'est toujours un plaisir d'aider un futur investisseur."
+        ],
+        "context": []
+      },
+      {
+        "title": "confusion_finance",
+        "requests": [
+          "Je ne comprends pas les actions",
+          "Qu'est-ce qu'un ETF?",
+          "C'est quoi le P/E ratio?"
+        ],
+        "responses": [
+          "Pas de problème, je suis là pour expliquer. Les actions représentent une part d'une entreprise.",
+          "Un ETF est un fonds négocié en bourse qui suit un indice, un secteur, des matières premières, etc.",
+          "Le ratio P/E représente le rapport entre le prix d'une action et le bénéfice par action."
+        ],
+        "context": []
+      },
+      {
+        "title": "starting_finance",
+        "requests": [
+          "Comment commencer à investir?",
+          "Quels sont les bons outils pour un débutant?",
+          "Quelle est la première étape pour investir?"
+        ],
+        "responses": [
+          "Commencez par ouvrir un compte de courtage, informez-vous sur les actions et les fonds, et établissez un budget.",
+          "Pour les débutants, des applications d'investissement conviviales sont un bon point de départ.",
+          "La première étape est de définir vos objectifs d'investissement et votre tolérance au risque."
+        ],
+        "context": []
+      },
+      {
+        "title": "investment_strategies",
+        "requests": [
+          "Quelle stratégie d'investissement me recommandez-vous?",
+          "Dois-je diversifier mon portefeuille?",
+          "Est-il mieux d'investir dans des actions ou des obligations?"
+        ],
+        "responses": [
+          "Une stratégie dépend de vos objectifs. La diversification peut minimiser le risque.",
+          "Oui, la diversification est essentielle pour réduire les risques.",
+          "Les actions offrent un potentiel de croissance plus élevé, tandis que les obligations sont généralement plus stables."
+        ],
+        "context": []
+      },
+      {
+        "title": "market_analysis",
+        "requests": [
+          "Comment analyser le marché?",
+          "Qu'est-ce que l'analyse fondamentale?",
+          "Qu'est-ce que l'analyse technique?"
+        ],
+        "responses": [
+          "L'analyse du marché peut être technique ou fondamentale et dépend de l'évaluation des tendances et des données.",
+          "L'analyse fondamentale examine les données d'une entreprise pour évaluer sa valeur.",
+          "L'analyse technique se concentre sur les statistiques de marché, telles que les prix et les volumes."
+        ],
+        "context": []
+      },
+      {
+        "title": "risk_management",
+        "requests": [
+          "Comment gérer le risque en bourse?",
+          "Qu'est-ce que la diversification?",
+          "Comment éviter de perdre de l'argent en bourse?"
+        ],
+        "responses": [
+          "La gestion des risques implique de diversifier, comprendre vos investissements et ne pas suivre aveuglément les tendances.",
+          "La diversification signifie répartir vos investissements dans divers actifs pour réduire les risques.",
+          "Éviter les pertes nécessite de la recherche, de la patience et une stratégie d'investissement solide."
+        ],
+        "context": []
+      }
+    ]
+  }
+  
